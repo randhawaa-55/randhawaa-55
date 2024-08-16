@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20858
-Fork on GitHub
-6442
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Ali Husnain</h1>
 <h3 align="center">A passionate Software developer from pakistan</h3>
 
