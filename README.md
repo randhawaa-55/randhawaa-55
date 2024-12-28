@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randhawaa-55&label=Profile%20views&color=0e75b6&style=flat" alt="randhawaa-55" /> </p>
 
-- 🔭 I’m currently working on **Virtual Assistance**
+- 🔭 I’m currently working on **Web Marketplace**
 
 - 📝 I regularly write articles on [https://propythonprogramm.blogspot.com/](https://propythonprogramm.blogspot.com/)
 
