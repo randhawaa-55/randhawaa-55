@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Marketplace**
 
-- 📝 I regularly write articles on [https://propythonprogramm.blogspot.com/](https://propythonprogramm.blogspot.com/)
+- 📝 I write  some articles on [https://propythonprogramm.blogspot.com/](https://propythonprogramm.blogspot.com/)
 
 - 💬 Ask me about **Django,React,Python programming, CyberSecurity**
 
